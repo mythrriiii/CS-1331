@@ -1,0 +1,26 @@
+Extra Credit Explanation 
+
+Window 1: Graphics
+
+I created a Map of the North American Continent using the shapes available in JavaFX of different colors, shapes, sizes, and orientations.
+My map is based off of a Russian art form: Suprematism
+Suprematism is an early twentieth-century art movement focused on the fundamentals of geometry, painted in a limited range of colors. 
+The term suprematism refers to an abstract art based upon "the supremacy of pure artistic feeling" rather than on visual depiction of objects. 
+
+Hopefully my art piece can invoke this feeling!
+
+Window 2: CS Food Truck 
+
+I added a few of my own features to the program. 
+
+Feature 1 - Improved Receipt
+Pressing purchase will create a text file called order.txt and store the contents of the receipt there.
+The receipt contains each item, its quantity, its individual price, and the total price for that particular object along with the final cost at the end. 
+
+It also prints it out onto the console. 
+
+Feature 2 - Information about the Food
+I created an extra button for each food item. Upon being pressed it opens a window with a picture of the food and the ingredients present in it. 
+
+Feature 3 - Aesthetics
+I tried to make the UI aestheticallyh pleasing using colors, even spacing, and dimensions.
